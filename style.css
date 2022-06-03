@@ -1,0 +1,18 @@
+.heading{
+    width:80%;
+    font-size: 30px;
+}
+
+.name_of_objects,#result_object_accuracy,#result_object_name{
+    color:rgb(88, 199, 147);
+}
+
+#camera {
+    border: 2px dashed rgb(255, 1, 1);
+    width: 350px;
+    height: 300px;
+}
+
+body{
+    background-color:rgb(5, 246, 250) ;
+}
